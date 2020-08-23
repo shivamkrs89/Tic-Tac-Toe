@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TTT</string>
+    <string name="TiC_Tac_ToE">TiC_TaC_ToE</string>
+    <string name="c0">c0</string>
+    <string name="c1">c1</string>
+    <string name="c2">c2</string>
+    <string name="c3">c4</string>
+    <string name="c5">c5</string>
+    <string name="c6">c6</string>
+    <string name="c7">c7</string>
+    <string name="c8">c8</string>
+
+    <string name="c4">c4</string>
+    <string name="tttgame">TTT_game</string>
+    <string name="welcomettt">welcomettt</string>
+    <string name="status">statusbar</string>
+</resources>
